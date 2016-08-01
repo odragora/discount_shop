@@ -1,5 +1,5 @@
 # discount_shop
-A sample Django e-shop with a decent discount system.
+A sample Django e-shop with a discount system.
 
 The point of interest here is a discount system. 
 It features a possibility to manage custom discounts for any product, brand, category, gender type or give it a certan user.
